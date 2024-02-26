@@ -10,8 +10,8 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 4. **Develop Typed Functions in TypeScript**: ✅ [Click to view Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/24YAPREV?sharingId=2A05E6791DC9C008)
 5. **Declare and Instantiate Classes in TypeScript**: ✅ [Click to view Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/X2HW3K7Y?sharingId=2A05E6791DC9C008)
 6. **Generics in TypeScript**: ✅ [Click to view Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/8RCUHDCW?sharingId=2A05E6791DC9C008)
-7. **Work with External Libraries in TypeScript**: ✅ [Click to view Badge](badge-link)
-8. **Organize Code with Namespaces in TypeScript**: ✅ [Click to view Badge](badge-link)
+7. **Work with External Libraries in TypeScript**: ✅ [Click to view Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/X2HNRE3Y?sharingId=2A05E6791DC9C008)
+8. **Organize Code with Namespaces in TypeScript**: ✅ [Click to view Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/WA9HXZTN?sharingId=2A05E6791DC9C008)
 
 ## Reflections 😓📓
 
@@ -27,6 +27,6 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 6️⃣ **Generics in TypeScript**: 📓 благодаря этому разделу можно изучить и применять универсальные шаблоны. Они предоставляют способ указать функциям, классам или интерфейсам, какой тип вы хотите использовать при вызове. Универсальные шаблоны на текущий момент еще не доступны в JavaScript. ✅
 
-7️⃣ **Work with External Libraries in TypeScript**: 📓 ✅
+7️⃣ **Work with External Libraries in TypeScript**: 📓 данный раздел объясняет и учит использовать внешние библиотеки типов и упорядочивать код с помощью модулей. ✅
 
-8️⃣ **Organize Code with Namespaces in TypeScript**: 📓 ✅
+8️⃣ **Organize Code with Namespaces in TypeScript**: 📓 данный модуль объясняет как упорядочивать код с помощью пространства имен: рассказывает о назначении пространства имен, о их типах и об использовании пространств имен и модулей при проектировании. ✅
