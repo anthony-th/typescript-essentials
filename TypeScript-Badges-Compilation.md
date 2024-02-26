@@ -8,14 +8,14 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 2. **Declare Variable Types in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/N7LAVUWF?sharingId=2A05E6791DC9C008)
 3. **Implement Interfaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/UFL6HYW3?sharingId=2A05E6791DC9C008)
 4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/24YAPREV?sharingId=2A05E6791DC9C008)
-5. **Declare and Instantiate Classes in TypeScript**: [Badge](badge-link)
+5. **Declare and Instantiate Classes in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/anthony-th/X2HW3K7Y?sharingId=2A05E6791DC9C008)
 6. **Generics in TypeScript**: [Badge](badge-link)
 7. **Work with External Libraries in TypeScript**: [Badge](badge-link)
 8. **Organize Code with Namespaces in TypeScript**: [Badge](badge-link)
 
 ## Reflections
 
-1. **Getting Started with TypeScript**: данный раздел предоставляет общее представление о языке разработки TS, обучает установке необходимого софта и зависимостей без чего невозможна какая-либо работа с TS. Подробно рассказаны базовые настройки проекта для работы на ТС, компиляция любого проекта из JS в ТС.
+1. **Getting Started with TypeScript**: данный раздел предоставляет общее представление о языке разработки TypeScript, обучает установке необходимого софта и зависимостей без чего невозможна какая-либо работа с TypeScript. Подробно рассказаны базовые настройки проекта для работы на TypeScript, компиляция любого проекта из JavaScript в TypeScript.
 
 2. **Declare Variable Types in TypeScript**: данный раздел поясняет объявления переменных с помощиью примитивных типов, типов объектов и типов объединений и пересечений в TypeScript, также раздел учит объяснять преимущества объявления типизированных переменных.
 
@@ -25,7 +25,7 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 
 5. **Declare and Instantiate Classes in TypeScript**: данный раздел учит использовать классы в TypeScript для описания формы объектов, учит объявлению классов, созданию экземпляров класса, применению модификаторов доступа к классу, определению свойств в классе, объявлению класса, который расширяет другой класс и объявлению интерфейса для задания формы класса. Классы в TypeScript расширяют функциональные возможности ES6 и добавляют специальные функции TypeScript. Одним из преимуществ языка TypeScript является то, что его можно использовать для разработки с применением классов, а затем при необходимости компилировать результат в код JavaScript, который работает во всех основных браузерах и на всех распространенных платформах.
 
-6. **Generics in TypeScript**:
+6. **Generics in TypeScript**: благодаря этому разделу можно изучить и применять универсальные шаблоны. Они предоставляют способ указать функциям, классам или интерфейсам, какой тип вы хотите использовать при вызове. Универсальные шаблоны на текущий момент еще не доступны в JavaScript.
 
 7. **Work with External Libraries in TypeScript**:
 
